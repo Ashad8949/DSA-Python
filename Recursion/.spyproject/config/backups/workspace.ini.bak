@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = 'empty-project-type'
+recent_files = ['..\\..\\..\\.spyder-py3\\temp.py', 'Basic Russian Doll.py', 'Basic Execution.py', 'Basic Execution2.py', 'Basic Power of 2.py', 'Basic Factorial.py', 'Basic Fibonaci Number.py', 'Interview Q1 SumofDigits.py', 'Interview Q2 Power.py', 'Interview Q3 GCD.py', 'Interview Q4 D2B.py', 'Practice Q1.py', 'Practice Q2.py', 'Practice Q3 Reverse.py', 'Practice Q3 isPalindrom.py', 'Practice Q4 isOdd.py']
+
+[main]
+version = 0.2.0
+recent_files = []
+
