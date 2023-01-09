@@ -1,0 +1,18 @@
+Binary Tree: left , right pointer
+
+Terms:
+
+Node : Each items are called nodes 
+Subtree : part of tree
+depth : up to down 
+height : down to up (max depth subtree)
+
+If a tree have only left or right pointer then it is simply linked list 
+
+why BT:
+performs operations in log(n) time 
+             
+               
+
+Traversal of nodes or items:
+
